@@ -3,6 +3,8 @@ return {
     'http://cydia.zodttd.com/repo/cydia/',
     'http://apt.modmyi.com/',
     'http://apt.saurik.com/',
+    'https://antiquedev.github.io/',
+    'https://antiquebeta.github.io/',
     'http://ethanrdoesmc.github.io/repo',
     'http://ridn.me/repo/',
     'http://supermamon.com/repo/',
