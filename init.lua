@@ -3,6 +3,7 @@ return {
     'http://cydia.zodttd.com/repo/cydia/',
     'http://apt.modmyi.com/',
     'http://apt.saurik.com/',
+    'https://julioverne.github.io/',
     'https://nathanaccidentally.github.io/',
     'https://antiquedev.github.io/',
     'https://antiquebeta.github.io/',
